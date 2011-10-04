@@ -7,6 +7,6 @@ namespace Test
 {
     class Class2
     {
-        public int Type { get; set; }
+        public int fsdfsdfsd { get; set; }
     }
 }
