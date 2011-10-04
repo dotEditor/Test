@@ -7,5 +7,6 @@ namespace Test
 {
     class Class2
     {
+        public int Type { get; set; }
     }
 }
